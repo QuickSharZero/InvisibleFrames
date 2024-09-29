@@ -2,4 +2,4 @@ name: InvisibleFrames
 version: '0.1'
 author: QuickShar
 main: quickshar.mgworlds.ru.InvisibleFrames
-api-version: '1.20'
+api-version: '1.18'
